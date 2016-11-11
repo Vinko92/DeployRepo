@@ -1,0 +1,13 @@
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\bin\Debug\GoogleScraper.exe.config
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\bin\Debug\GoogleScraper.exe
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\bin\Debug\GoogleScraper.pdb
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.Properties.Resources.resources
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.csproj.GenerateResource.Cache
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.exe
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.pdb
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\bin\Debug\HtmlAgilityPack.dll
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\zoric\onedrive\dokumenti\visual studio 2015\Projects\GoogleScraper\GoogleScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zoric\OneDrive\Dokumenti\Visual Studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.App.resources
+C:\Users\zoric\OneDrive\Dokumenti\Visual Studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.SaveFile.resources
+C:\Users\zoric\OneDrive\Dokumenti\Visual Studio 2015\Projects\GoogleScraper\GoogleScraper\obj\Debug\GoogleScraper.csprojResolveAssemblyReference.cache
