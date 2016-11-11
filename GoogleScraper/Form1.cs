@@ -76,7 +76,7 @@ namespace GoogleScraper
             {
                 ScrapeWorker worker = new ScrapeWorker();
 
-                string rawHtmlText = await worker.ScrapeDetailsAsync(urls[index].WebsiteUrl);
+                string rawHtmlText = await worker.ScrapeDetailsAsync(urls[index].Root);
 
                 var emails = keywords.Text.Split(' ').Where(x => x.Contains("@"));
 
@@ -1027,6 +1027,7 @@ namespace GoogleScraper
             this.dataGrid.Name = "dataGrid";
             this.dataGrid.ReadOnly = true;
             this.dataGrid.RowHeadersWidth = 10;
+            this.dataGrid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGrid.Size = new System.Drawing.Size(966, 312);
             this.dataGrid.TabIndex = 1;
             // 
